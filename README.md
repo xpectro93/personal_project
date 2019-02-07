@@ -20,6 +20,6 @@ Phase 1 (2 days )
 - Complete routes
 - Fill routes with fake data
 
-Phase 2
+Phase 2 CRUD ( 2 days )
 
--
+-  Be able to create, read, update, delete a user.
